@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshwaran7&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshwaran7" /> </p>
 
-- 🔭 I’m currently learning on **c,python**
+- 🖥️ I’m currently learning on **c,𝓹𝔂𝓽𝓱𝓸𝓷,𝓼𝓺𝓵**
 
 - 🌱 I’m currently learning **sql**
 
