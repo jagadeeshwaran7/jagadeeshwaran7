@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeeshwaran7&show_icons=true&locale=en" alt="jagadeeshwaran7" /></p>
 ## snake eating my contrubution graph
-![github-contribution-grid-snake.gif](https://github.com/jagadeeshwaran7/jagadeeshwaran7/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jagadeeshwaran7/jagadeeshwaran7/blob/output/github-contribution-grid-snake.gif)
