@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm jagadeesh waran</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshwaran7&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshwaran7" /> </p>
 
-- 🖥️ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓸𝓷 **Python,sql,DSA**
-- 📫  𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮**jagadeeshrajendran7@gmail.com**
+- 🖥️ Languages:C, Python, sql, DSA**
+- 📫  How to reach me:**jagadeeshrajendran7@gmail.com**
 
 <h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h3>
 <p align="left">
